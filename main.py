@@ -1,6 +1,6 @@
 """
 Assignment: Python Modules Assignment
-Program: my_definitions.py
+Program: main.py
 Author: Colby Boell
 Last date modified: 03/21/2022
 
