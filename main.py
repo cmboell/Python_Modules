@@ -20,3 +20,14 @@ if __name__ == '__main__':
     md.print_set(set_list)
 
 
+"""
+Output result:
+Hello, nice to meet you!
+Author: Colby Boell
+12 Colby
+13 Margot
+14 Nala
+Cardigan
+Sweater
+T-shirt
+"""
